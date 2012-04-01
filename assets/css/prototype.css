@@ -11,7 +11,6 @@ body {
     background: rgba(204,204,204,0);
 }
 
-
 /*
 #prototype_menu{
    height:auto;
@@ -340,6 +339,8 @@ shocker_sprite{
    background: url("../images/menuslice.png") no-repeat;
    background-position:0% 0%;
 	box-shadow:none;
+		width:43px;
+	height:41px;
 }
 
 #prototype_menu ul li{
@@ -475,6 +476,8 @@ shocker_sprite{
    background: url("../images/menuslice.png") no-repeat;
    background-position:0% 0%;
 	box-shadow:none;
+	width:44px;
+	height:41px;
 }
 
 #prototype_menu ul li{
