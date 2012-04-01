@@ -1,0 +1,40 @@
+
+ /*======html resset blocks===================== */
+html,header,footer,menu,nav,article,section,hgroup,
+strong,a,del,dfn,em,img,ins,kbd,q,samp,b,l,dl,dt,dd,ol,ul,li,
+h6,h1,h2,h3,h4,h5,h7,p,blockquote,iframe,object,code,cite,address,abbr,
+table,caption,tbody,tfoot,thead,tr,th,td,canvas,aside,details,figcaption,figure,
+summary,time,mark,audio,video,form,legend,label,fieldset{
+    margin:0px;
+    padding:0px;
+    vertical-align:baseline;
+    background:transparent;
+    border:0;
+    outline:0;
+    font-size:100%;
+}
+
+header,aside,footer,hgroup,section,article,details,figcaption,figure,menu,nav{
+    display:block;
+}
+
+body{
+    line-height:1;
+}
+
+a,a:hover,a:active,a:visited{
+    color:#fff;
+    margin:0;
+    padding:0;
+    font-size:100%;
+    vertical-align:baseline;
+    background:transparent;
+    text-decoration:none;
+}
+
+
+ul,li{
+    list-style:none;
+    display:block;
+}
+ /* ===================End of reset======================*/

@@ -1,0 +1,40 @@
+
+body {
+    margin:20px auto;
+    background:#222;
+}
+
+.columns{
+    background-color: rgba(204,204,204,0.4);	
+}
+
+#wrapper{
+    margin:0px auto;
+    max-width:90%;
+
+}
+
+.row{
+   margin:20px 0px;
+   border:1px solid rgba(204,204,204,0.2);
+ 
+}
+
+#header_menu{
+    max-width:100%;
+    height:100px;    
+}
+
+#header_menu div#prototype_logo, #header_menu div#prototype_menu{
+    display:block;
+    float:left;
+    height:100%;
+}
+    
+#prototype_logo{
+    width:40.1%;
+}
+
+#prototype_menu{
+   width:60%;
+}

@@ -1,0 +1,16 @@
+*{
+padding:0px;
+margin:0px;
+}
+
+body{
+ padding:0px 10px;
+ min-width:1024px;
+ background-color:#222;
+}
+
+#container{
+    
+
+
+}
